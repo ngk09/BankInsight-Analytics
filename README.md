@@ -1,0 +1,3 @@
+This Bank Client Analysis project utilizes Python to explore a multinational dataset of 3,000 banking records. By leveraging libraries like Pandas, Seaborn, and Matplotlib, the analysis uncovers key trends in customer demographics, income distribution, and institutional loyalty tiers ranging from Jade to Platinum.
+
+The study provides deep insights into asset distribution, risk weighting, and the financial behaviors of high-value clients across various regions. Featuring detailed visualizations and correlation mapping, this repository demonstrates how data science can be applied to optimize client retention and institutional risk assessment in the financial sector.
